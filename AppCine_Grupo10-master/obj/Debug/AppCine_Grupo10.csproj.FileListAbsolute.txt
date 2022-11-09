@@ -1,0 +1,5 @@
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\AppCine_Grupo10-master\obj\Debug\AppCine_Grupo10.csproj.AssemblyReference.cache
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\AppCine_Grupo10-master\obj\Debug\AppCine_Grupo10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\AppCine_Grupo10-master\obj\Debug\AppCine_Grupo10.FrmPanelCartelera.resources
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\AppCine_Grupo10-master\obj\Debug\AppCine_Grupo10.FrmPanelMenu.resources
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\AppCine_Grupo10-master\obj\Debug\AppCine_Grupo10.csproj.GenerateResource.cache

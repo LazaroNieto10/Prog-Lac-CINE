@@ -1,0 +1,12 @@
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\bin\Debug\net5.0\DataCine.deps.json
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\bin\Debug\net5.0\DataCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\bin\Debug\net5.0\ref\DataCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\bin\Debug\net5.0\DataCine.pdb
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\obj\Debug\net5.0\DataCine.csprojAssemblyReference.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\obj\Debug\net5.0\DataCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\obj\Debug\net5.0\DataCine.AssemblyInfoInputs.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\obj\Debug\net5.0\DataCine.AssemblyInfo.cs
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\obj\Debug\net5.0\DataCine.csproj.CoreCompileInputs.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\obj\Debug\net5.0\DataCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\obj\Debug\net5.0\ref\DataCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\DataCine\obj\Debug\net5.0\DataCine.pdb

@@ -1,0 +1,74 @@
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\appsettings.json
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.exe
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.deps.json
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.runtimeconfig.json
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.runtimeconfig.dev.json
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\ref\WebApiAppCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.pdb
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.csprojAssemblyReference.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.AssemblyInfoInputs.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.AssemblyInfo.cs
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.csproj.CoreCompileInputs.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\staticwebassets\WebApiAppCine.StaticWebAssets.Manifest.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\staticwebassets\WebApiAppCine.StaticWebAssets.xml
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\scopedcss\bundle\WebApiAppCine.styles.css
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.RazorTargetAssemblyInfo.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.csproj.CopyComplete
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\ref\WebApiAppCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.pdb
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.genruntimeconfig.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\DataCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\WebApiAppCine\bin\Debug\net5.0\DataCine.pdb
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\appsettings.json
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.StaticWebAssets.xml
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.exe
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.deps.json
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.runtimeconfig.json
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.runtimeconfig.dev.json
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\WebApiAppCine.pdb
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\DataCine.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\bin\Debug\net5.0\DataCine.pdb
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.csproj.AssemblyReference.cache
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.AssemblyInfoInputs.cache
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.AssemblyInfo.cs
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.csproj.CoreCompileInputs.cache
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\scopedcss\bundle\WebApiAppCine.styles.css
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\staticwebassets\WebApiAppCine.StaticWebAssets.Manifest.cache
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.RazorTargetAssemblyInfo.cache
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.csproj.CopyComplete
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\refint\WebApiAppCine.dll
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.pdb
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\WebApiAppCine.genruntimeconfig.cache
+C:\Users\Lazaro\Downloads\CineGrupo10-main\CineGrupo10-main\WebApiAppCine\obj\Debug\net5.0\ref\WebApiAppCine.dll
